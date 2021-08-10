@@ -1,2 +1,2 @@
 # manteinance
-Maintenance app for Vehicules
+Maintenance app for Vehicules. Do not use this app, only for recreation.
